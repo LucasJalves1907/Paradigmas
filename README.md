@@ -1,3 +1,7 @@
+# Site para ver o read me
+
+https://github.com/LucasJalves1907/Paradigmas.git
+
 # Paradigmas
 Repositório para realização das tarefas de paradigmas da programação. 
 
