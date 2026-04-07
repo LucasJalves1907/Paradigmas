@@ -1,7 +1,26 @@
 # Paradigmas
 Repositório para realização das tarefas de paradigmas da programação. 
 
-Todas as prints dos exercícios estão postadas aqui para a análise do professor
+# Sobre o Projeto
+Esse contém a resolução do lab final, abordando conceitos fundamentais dos paradigmas realizados em sala
+
+# Conceitos aplicados:
+
+Abstração Procedural
+
+Controle de Estado
+
+Recursividade
+
+Efeitos Colaterais
+
+Corrotinas (Generators)
+
+Lazy Evaluation
+
+Limites do Paradigma Procedural
+
+# Todas as prints dos exercícios estão postadas aqui para a análise do professor
 
 Ex 1:
 
