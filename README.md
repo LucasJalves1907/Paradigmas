@@ -64,7 +64,15 @@ Ex 10:
 
 
 
+# Este laboratório demonstrou que:
 
+A abstração procedural melhora a organização do código
+
+O controle de estado é essencial para evitar erros
+
+Funções puras reduzem efeitos colaterais
+
+O paradigma procedural possui limitações em sistemas complexos
 
 
 
