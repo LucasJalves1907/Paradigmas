@@ -64,15 +64,10 @@ Ex 10:
 
 
 
-# Este laboratório demonstrou que:
+# O que foi entendido
 
-A abstração procedural melhora a organização do código
-
-O controle de estado é essencial para evitar erros
-
-Funções puras reduzem efeitos colaterais
-
-O paradigma procedural possui limitações em sistemas complexos
+ Esses exercícios mostram que diferentes abordagens impactam desempenho e uso de memória (ex: recursão vs iteração), evidenciando que o controle de estado é crítico, pois referências e mutabilidade geram efeitos colaterais. Destacam a importância da organização do código (coesão e separação de responsabilidades) e apresentam limites da recursão e vantagens de técnicas como yield e lazy evaluation.
+ Por fim, justificam a transição do paradigma procedural para a Programação Orientada a Objetos.
 
 
 
