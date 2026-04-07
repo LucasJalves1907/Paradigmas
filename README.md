@@ -1,4 +1,4 @@
-<img width="1399" height="217" alt="image" src="https://github.com/user-attachments/assets/92f26c62-4ded-424b-8448-78588734d637" /># Paradigmas
+# Paradigmas
 Repositório para realização das tarefas de paradigmas da programação. 
 
 Todas as prints dos exercícios estão postadas aqui para a análise do professor
